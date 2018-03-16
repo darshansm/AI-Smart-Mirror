@@ -14,7 +14,7 @@ from speech import Speech
 from knowledge import Knowledge
 from vision import Vision
 
-my_name = "Aaron"
+my_name = "Darshan"
 launch_phrase = "ok mirror"
 use_launch_phrase = True
 weather_api_token = "<weather_token>"
